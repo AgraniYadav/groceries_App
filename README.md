@@ -1,2 +1,3 @@
 # groceries_App
-this is my first git repository. This is a groceries app in flutter language
+This is my first Git Repository. This is a groceries app in flutter language
+Author - Agrani Yadav
